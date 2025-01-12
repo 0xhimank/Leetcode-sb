@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    //brute force
+    //brute force O(N) time and O(1) space
     int a[13]={1,2,3,4,4,4,5,6,7,7,7,8,9},size=13,key;
     int firstOccurance=0,lastOccurance=0,flag=0;
     cin>>key;
