@@ -29,6 +29,7 @@ int main() {
 	else{
 		cout<<"not a power of 2"<<endl;
 	}
+	//solution using rust?
 	
     return 0;
 }

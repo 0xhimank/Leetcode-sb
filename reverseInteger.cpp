@@ -29,7 +29,7 @@ int main() {
 //         while(k!=0){
 //     	    k=k/10;
 //     	    length++;
-//         }
+=//         }
 //         while(x!=0){
 //     	    rev+=(x%10)*(pow(10,length-1));
 //     	    x=x/10;
