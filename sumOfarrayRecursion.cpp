@@ -15,4 +15,4 @@ int main() {
     cout<<sumOfArrUsRec(a,5);
 
     return 0;
-}
+}   
